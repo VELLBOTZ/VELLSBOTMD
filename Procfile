@@ -1,1 +1,1 @@
-worker : npm i ffmepg && npm i - g pm2 && pm2 start zeeone.js && pm2 save && pm2 logs
+Worker : node zeeone.js
